@@ -43,3 +43,10 @@ The dashboard enables stakeholders to monitor service reliability daily, identif
 ## 🔗 Live Dashboard
 [View Power BI Dashboard 1] [(https://github.com/PoojaDagadkhair/Supply-Chain-Service-Reliability-Analytics-FMCG-/blob/main/media/dashboard-1.jpeg)]
  
+[View Power BI Dashboard 2 ] [(https://github.com/PoojaDagadkhair/Supply-Chain-Service-Reliability-Analytics-FMCG-/blob/main/media/dashboard-2.jpeg)]
+
+
+
+
+
+
