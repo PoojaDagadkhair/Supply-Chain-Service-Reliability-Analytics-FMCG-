@@ -41,5 +41,5 @@ An FMCG company faced customer contract losses due to delayed and incomplete del
 The dashboard enables stakeholders to monitor service reliability daily, identify fulfillment issues early, and improve customer satisfaction through targeted operational actions.
 
 ## 🔗 Live Dashboard
-[View Power BI Dashboard](PASTE_YOUR_LINK_HERE)
+[View Power BI Dashboard 1] [(https://github.com/PoojaDagadkhair/Supply-Chain-Service-Reliability-Analytics-FMCG-/blob/main/media/dashboard-1.jpeg)]
  
