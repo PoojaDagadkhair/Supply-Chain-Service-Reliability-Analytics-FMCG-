@@ -3,6 +3,11 @@
 
 ## 📌 Project Overview
 This project analyzes service reliability in an FMCG supply chain by tracking key fulfillment metrics such as On-Time (OT), In-Full (IF), and OTIF. The objective is to identify delivery gaps, operational inefficiencies, and customer service issues impacting business growth.
+# Dashboard 
+![dashboard-1](https://github.com/user-attachments/assets/32757bda-4a04-4040-ad3c-20dc828ce1eb)
+
+![dashboard-2](https://github.com/user-attachments/assets/89a43813-1c7a-463b-bb89-37502d9af3d7)
+
 
 ## 🧩 Business Problem
 An FMCG company faced customer contract losses due to delayed and incomplete deliveries. Management required a data-driven solution to monitor daily service levels and take corrective actions before expanding into new markets.
